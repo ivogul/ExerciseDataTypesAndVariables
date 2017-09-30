@@ -1,0 +1,5 @@
+C:\Users\Ivo\Documents\SofUni\Data Types And Variables Exercises\DataTypesAndVariablesEx\PracticeFloatingPoints\bin\Debug\PracticeFloatingPoints.exe.config
+C:\Users\Ivo\Documents\SofUni\Data Types And Variables Exercises\DataTypesAndVariablesEx\PracticeFloatingPoints\bin\Debug\PracticeFloatingPoints.exe
+C:\Users\Ivo\Documents\SofUni\Data Types And Variables Exercises\DataTypesAndVariablesEx\PracticeFloatingPoints\bin\Debug\PracticeFloatingPoints.pdb
+C:\Users\Ivo\Documents\SofUni\Data Types And Variables Exercises\DataTypesAndVariablesEx\PracticeFloatingPoints\obj\Debug\PracticeFloatingPoints.exe
+C:\Users\Ivo\Documents\SofUni\Data Types And Variables Exercises\DataTypesAndVariablesEx\PracticeFloatingPoints\obj\Debug\PracticeFloatingPoints.pdb

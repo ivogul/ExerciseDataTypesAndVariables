@@ -1,0 +1,5 @@
+C:\Users\Ivo\Documents\SofUni\Data Types And Variables Exercises\DataTypesAndVariablesEx\BuleanVariable\bin\Debug\BuleanVariable.exe.config
+C:\Users\Ivo\Documents\SofUni\Data Types And Variables Exercises\DataTypesAndVariablesEx\BuleanVariable\bin\Debug\BuleanVariable.exe
+C:\Users\Ivo\Documents\SofUni\Data Types And Variables Exercises\DataTypesAndVariablesEx\BuleanVariable\bin\Debug\BuleanVariable.pdb
+C:\Users\Ivo\Documents\SofUni\Data Types And Variables Exercises\DataTypesAndVariablesEx\BuleanVariable\obj\Debug\BuleanVariable.exe
+C:\Users\Ivo\Documents\SofUni\Data Types And Variables Exercises\DataTypesAndVariablesEx\BuleanVariable\obj\Debug\BuleanVariable.pdb

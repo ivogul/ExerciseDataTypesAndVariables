@@ -1,0 +1,5 @@
+C:\Users\Ivo\Documents\SofUni\Data Types And Variables Exercises\DataTypesAndVariablesEx\PracticeCharactersAndStrings\bin\Debug\PracticeCharactersAndStrings.exe.config
+C:\Users\Ivo\Documents\SofUni\Data Types And Variables Exercises\DataTypesAndVariablesEx\PracticeCharactersAndStrings\bin\Debug\PracticeCharactersAndStrings.exe
+C:\Users\Ivo\Documents\SofUni\Data Types And Variables Exercises\DataTypesAndVariablesEx\PracticeCharactersAndStrings\bin\Debug\PracticeCharactersAndStrings.pdb
+C:\Users\Ivo\Documents\SofUni\Data Types And Variables Exercises\DataTypesAndVariablesEx\PracticeCharactersAndStrings\obj\Debug\PracticeCharactersAndStrings.exe
+C:\Users\Ivo\Documents\SofUni\Data Types And Variables Exercises\DataTypesAndVariablesEx\PracticeCharactersAndStrings\obj\Debug\PracticeCharactersAndStrings.pdb

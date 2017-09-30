@@ -1,0 +1,6 @@
+C:\Users\Ivo\Documents\SofUni\Data Types And Variables Exercises\DataTypesAndVariablesEx\PracticeIntegerNumbers\bin\Debug\PracticeIntegerNumbers.exe.config
+C:\Users\Ivo\Documents\SofUni\Data Types And Variables Exercises\DataTypesAndVariablesEx\PracticeIntegerNumbers\bin\Debug\PracticeIntegerNumbers.exe
+C:\Users\Ivo\Documents\SofUni\Data Types And Variables Exercises\DataTypesAndVariablesEx\PracticeIntegerNumbers\bin\Debug\PracticeIntegerNumbers.pdb
+C:\Users\Ivo\Documents\SofUni\Data Types And Variables Exercises\DataTypesAndVariablesEx\PracticeIntegerNumbers\obj\Debug\PracticeIntegerNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Ivo\Documents\SofUni\Data Types And Variables Exercises\DataTypesAndVariablesEx\PracticeIntegerNumbers\obj\Debug\PracticeIntegerNumbers.exe
+C:\Users\Ivo\Documents\SofUni\Data Types And Variables Exercises\DataTypesAndVariablesEx\PracticeIntegerNumbers\obj\Debug\PracticeIntegerNumbers.pdb

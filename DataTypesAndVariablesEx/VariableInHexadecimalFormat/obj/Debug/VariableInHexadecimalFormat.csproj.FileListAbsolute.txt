@@ -1,0 +1,5 @@
+C:\Users\Ivo\Documents\SofUni\Data Types And Variables Exercises\DataTypesAndVariablesEx\VariableInHexadecimalFormat\bin\Debug\VariableInHexadecimalFormat.exe.config
+C:\Users\Ivo\Documents\SofUni\Data Types And Variables Exercises\DataTypesAndVariablesEx\VariableInHexadecimalFormat\bin\Debug\VariableInHexadecimalFormat.exe
+C:\Users\Ivo\Documents\SofUni\Data Types And Variables Exercises\DataTypesAndVariablesEx\VariableInHexadecimalFormat\bin\Debug\VariableInHexadecimalFormat.pdb
+C:\Users\Ivo\Documents\SofUni\Data Types And Variables Exercises\DataTypesAndVariablesEx\VariableInHexadecimalFormat\obj\Debug\VariableInHexadecimalFormat.exe
+C:\Users\Ivo\Documents\SofUni\Data Types And Variables Exercises\DataTypesAndVariablesEx\VariableInHexadecimalFormat\obj\Debug\VariableInHexadecimalFormat.pdb
