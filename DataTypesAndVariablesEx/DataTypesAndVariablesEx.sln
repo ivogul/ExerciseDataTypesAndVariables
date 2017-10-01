@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.24720.0
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticeIntegerNumbers", "PracticeIntegerNumbers\PracticeIntegerNumbers.csproj", "{9BBA81BC-5380-4605-A218-F8619B04C963}"
 EndProject
@@ -12,6 +12,12 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VariableInHexadecimalFormat", "VariableInHexadecimalFormat\VariableInHexadecimalFormat.csproj", "{568CFAB6-DFD9-44E8-941B-907F9CB7A48A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuleanVariable", "BuleanVariable\BuleanVariable.csproj", "{7E743A43-514F-46CA-B26A-0BBED73F8B6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringsAndObjects", "StringsAndObjects\StringsAndObjects.csproj", "{D6317717-81F5-4DB0-96F5-57BD8D4FCAB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExchangeVariableValues", "ExchangeVariableValues\ExchangeVariableValues.csproj", "{1B54509D-260F-4477-9BD9-217EF93E2F44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeData", "EmployeeData\EmployeeData.csproj", "{13CA43D4-E115-4AEE-9926-5648860F26A4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +45,18 @@ Global
 		{7E743A43-514F-46CA-B26A-0BBED73F8B6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7E743A43-514F-46CA-B26A-0BBED73F8B6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7E743A43-514F-46CA-B26A-0BBED73F8B6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6317717-81F5-4DB0-96F5-57BD8D4FCAB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6317717-81F5-4DB0-96F5-57BD8D4FCAB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6317717-81F5-4DB0-96F5-57BD8D4FCAB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6317717-81F5-4DB0-96F5-57BD8D4FCAB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B54509D-260F-4477-9BD9-217EF93E2F44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B54509D-260F-4477-9BD9-217EF93E2F44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B54509D-260F-4477-9BD9-217EF93E2F44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B54509D-260F-4477-9BD9-217EF93E2F44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13CA43D4-E115-4AEE-9926-5648860F26A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13CA43D4-E115-4AEE-9926-5648860F26A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13CA43D4-E115-4AEE-9926-5648860F26A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13CA43D4-E115-4AEE-9926-5648860F26A4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

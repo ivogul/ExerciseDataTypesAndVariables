@@ -1,0 +1,5 @@
+D:\Documents\Visual Studio 2015\Projects\ExDataTypesAndVariables\DataTypesAndVariablesEx\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.exe.config
+D:\Documents\Visual Studio 2015\Projects\ExDataTypesAndVariables\DataTypesAndVariablesEx\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.exe
+D:\Documents\Visual Studio 2015\Projects\ExDataTypesAndVariables\DataTypesAndVariablesEx\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.pdb
+D:\Documents\Visual Studio 2015\Projects\ExDataTypesAndVariables\DataTypesAndVariablesEx\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.exe
+D:\Documents\Visual Studio 2015\Projects\ExDataTypesAndVariables\DataTypesAndVariablesEx\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.pdb
