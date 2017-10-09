@@ -1,0 +1,5 @@
+D:\Documents\Visual Studio 2015\Projects\ExDataTypesAndVariables\DataTypesAndVariablesEx\ReversedCharts\bin\Debug\ReversedCharts.exe.config
+D:\Documents\Visual Studio 2015\Projects\ExDataTypesAndVariables\DataTypesAndVariablesEx\ReversedCharts\bin\Debug\ReversedCharts.exe
+D:\Documents\Visual Studio 2015\Projects\ExDataTypesAndVariables\DataTypesAndVariablesEx\ReversedCharts\bin\Debug\ReversedCharts.pdb
+D:\Documents\Visual Studio 2015\Projects\ExDataTypesAndVariables\DataTypesAndVariablesEx\ReversedCharts\obj\Debug\ReversedCharts.exe
+D:\Documents\Visual Studio 2015\Projects\ExDataTypesAndVariables\DataTypesAndVariablesEx\ReversedCharts\obj\Debug\ReversedCharts.pdb

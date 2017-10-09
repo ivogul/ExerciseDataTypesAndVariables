@@ -1,0 +1,6 @@
+D:\Documents\Visual Studio 2015\Projects\ExDataTypesAndVariables\DataTypesAndVariablesEx\DifferentIntegersSize\bin\Debug\DifferentIntegersSize.exe.config
+D:\Documents\Visual Studio 2015\Projects\ExDataTypesAndVariables\DataTypesAndVariablesEx\DifferentIntegersSize\bin\Debug\DifferentIntegersSize.exe
+D:\Documents\Visual Studio 2015\Projects\ExDataTypesAndVariables\DataTypesAndVariablesEx\DifferentIntegersSize\bin\Debug\DifferentIntegersSize.pdb
+D:\Documents\Visual Studio 2015\Projects\ExDataTypesAndVariables\DataTypesAndVariablesEx\DifferentIntegersSize\obj\Debug\DifferentIntegersSize.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\ExDataTypesAndVariables\DataTypesAndVariablesEx\DifferentIntegersSize\obj\Debug\DifferentIntegersSize.exe
+D:\Documents\Visual Studio 2015\Projects\ExDataTypesAndVariables\DataTypesAndVariablesEx\DifferentIntegersSize\obj\Debug\DifferentIntegersSize.pdb

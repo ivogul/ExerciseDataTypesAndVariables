@@ -1,0 +1,6 @@
+D:\Documents\Visual Studio 2015\Projects\ExDataTypesAndVariables\DataTypesAndVariablesEx\ConvertSpeedUnits\bin\Debug\ConvertSpeedUnits.exe.config
+D:\Documents\Visual Studio 2015\Projects\ExDataTypesAndVariables\DataTypesAndVariablesEx\ConvertSpeedUnits\bin\Debug\ConvertSpeedUnits.exe
+D:\Documents\Visual Studio 2015\Projects\ExDataTypesAndVariables\DataTypesAndVariablesEx\ConvertSpeedUnits\bin\Debug\ConvertSpeedUnits.pdb
+D:\Documents\Visual Studio 2015\Projects\ExDataTypesAndVariables\DataTypesAndVariablesEx\ConvertSpeedUnits\obj\Debug\ConvertSpeedUnits.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\ExDataTypesAndVariables\DataTypesAndVariablesEx\ConvertSpeedUnits\obj\Debug\ConvertSpeedUnits.exe
+D:\Documents\Visual Studio 2015\Projects\ExDataTypesAndVariables\DataTypesAndVariablesEx\ConvertSpeedUnits\obj\Debug\ConvertSpeedUnits.pdb

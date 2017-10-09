@@ -1,0 +1,5 @@
+D:\Documents\Visual Studio 2015\Projects\ExDataTypesAndVariables\DataTypesAndVariablesEx\CenturiesToNanoseconds\bin\Debug\CenturiesToNanoseconds.exe.config
+D:\Documents\Visual Studio 2015\Projects\ExDataTypesAndVariables\DataTypesAndVariablesEx\CenturiesToNanoseconds\bin\Debug\CenturiesToNanoseconds.exe
+D:\Documents\Visual Studio 2015\Projects\ExDataTypesAndVariables\DataTypesAndVariablesEx\CenturiesToNanoseconds\bin\Debug\CenturiesToNanoseconds.pdb
+D:\Documents\Visual Studio 2015\Projects\ExDataTypesAndVariables\DataTypesAndVariablesEx\CenturiesToNanoseconds\obj\Debug\CenturiesToNanoseconds.exe
+D:\Documents\Visual Studio 2015\Projects\ExDataTypesAndVariables\DataTypesAndVariablesEx\CenturiesToNanoseconds\obj\Debug\CenturiesToNanoseconds.pdb
